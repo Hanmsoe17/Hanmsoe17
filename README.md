@@ -5,6 +5,6 @@
 - 💞️ I’m looking to collaborate on "AI Ethics, HateSpeech" research papers and projects.
 - 📫 How to reach me ... hanminsoe356@gmail.com.
 
-Graduation Thesis: Myanmar Hate Speech Detection Reinforced with Neural Networks @ University of Information Technology
+Graduation Thesis: Myanmar Hate Speech Detection Reinforced with Neural Networks 
 
 
