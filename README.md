@@ -1,9 +1,18 @@
-My focus is on developing AI solutions that prioritize ethics and create meaningful impact, without involving web development or volunteering activities.
+AI Researcher | Ethical NLP | A Student 
+--------------------------
+Building neural systems that understand both language and human values while creating impactful tools.
 
-🎓 Currently studying CS at the University of Information Technology Yangon
-💻 Full Stack Development trained at CodeLab
-🤖 Learning AI at Simbolo and through self-study
+Education:
+▶ University of Information Technology Yangon (B.Sc CS)
+▶ Simbolo - Advanced AI Training
+▶ CodeLab - Engineering Foundations
 
-Contact me:
-📩 hanminsoe356@gmail.com
-📱 Telegram: @hanmsoe17
+Current Work:
+🔍 AI for Education Project
+🌐 Web development (MERN/Laravel)
+
+Community Engagement:
+🤝 Volunteer AI educator at local tech initiatives
+📢 Speaker at Myanmar tech community events
+
+Contact: hanminsoe356@gmail.com [email] | hanmsoe17 [Telegram]
